@@ -2,7 +2,7 @@
 
 echo "Test";
 
-echo $_ENV;
+echo $_ENV["PASSWORD"];
 
 ?>
 
